@@ -16,4 +16,4 @@ layout: default
 
 **3.** [Cyberespace](cyberspace)
 
-**4.** Pour trouver des images des references d'architecture [Suivez le guide](informations)
+**4.** Pour trouver des images et des references d'architecture [Suivez le guide](informations)
